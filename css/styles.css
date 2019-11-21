@@ -1,0 +1,23 @@
+body {
+  background-image: url("../img/background.svg");
+}
+.background {
+  height: 700px;
+  padding-top: 100px;
+}
+
+.personal {
+  width: 475px;
+  height: auto;
+  margin-top: 5vw;
+  border-radius: 3%;
+}
+
+.details {
+  margin-top: 5vw;
+}
+
+ul {
+  list-style-type: none;
+  padding: 2vw;
+}
